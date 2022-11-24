@@ -12,21 +12,12 @@ This is a simple follow-along tutorial on JavaScript testing with Jest.
 
 > [Live Demo Link](#)
 
-## Screenshots
-
-<h3 align="center">Screenhot</h3>
-<p align="center">
-  <img width="500" src="#">
-</P>
 
 ## Built With
 
 ## Built With
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [JavaScript/ES6](https://262.ecma-international.org/6.0/)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [webpack 5](https://webpack.js.org/)
 - [npm](https://www.npmjs.com/)
 - [VS Code](https://code.visualstudio.com/)
 - [Git](https://git-scm.com/)
@@ -35,7 +26,6 @@ This is a simple follow-along tutorial on JavaScript testing with Jest.
 - [ESLint](https://eslint.org/)
 - [Webhint](https://webhint.io/)
 - [Lighthouse](https://ethcar.github.io/lighthouse/)
-- [SASS](https://sass-lang.com/)
 - [Jest](https://jestjs.io/)
 
 
