@@ -1,13 +1,10 @@
 {
-  "name": "todo-list",
+  "name": "javascript-test",
   "version": "1.0.0",
   "description": "",
   "private": true,
   "scripts": {
-    "watch": "webpack --watch",
-    "start": "webpack serve --open",
-    "build": "webpack",
-    "deploy": "git subtree push --prefix dist origin gh-page",
+    "watch": "jest --watch *.js",
     "test": "jest"
   },
   "repository": {
